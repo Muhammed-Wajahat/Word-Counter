@@ -1,0 +1,19 @@
+{
+  "name": "w7rw-word-counter",
+  "version": "1.0.0",
+  "description": "CLI Base Word Counter using Tyoescript Node.js and Inquirer.",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wajahat Ali",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "sim-calculator-w2rw": "^1.0.0"
+  }
+}
